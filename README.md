@@ -1,1 +1,2 @@
-#it make and sovles a Sudoko 
+# Sudoko sovler
+make it sovles and make a Sudoko 
