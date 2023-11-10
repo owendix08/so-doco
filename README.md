@@ -1,1 +1,1 @@
-# so-doco
+#it make and sovles a Sudoko 
